@@ -1,5 +1,5 @@
 # Learn Haskell
-Following tutorial on haskell online
+Tutorials + Code Practice in Haskell
 
 # References
 - http://learnyouahaskell.com/
